@@ -4,4 +4,9 @@ UNIVERSIDADE FEDERAL DE PERNAMBUCO
 
 Opa! Chegay na área!!!
 
+<<<<<<< HEAD
 OH! Louco!!!
+=======
+
+Adicionando um texto bem inutil!
+>>>>>>> 07ba90dc6cdac50855f618e71941b4a849430fe2
